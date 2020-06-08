@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/square-image-maker/static/css/main.9067bf5c.chunk.css",
+    "main.js": "/square-image-maker/static/js/main.03a970a8.chunk.js",
+    "main.js.map": "/square-image-maker/static/js/main.03a970a8.chunk.js.map",
+    "runtime-main.js": "/square-image-maker/static/js/runtime-main.6a0d3184.js",
+    "runtime-main.js.map": "/square-image-maker/static/js/runtime-main.6a0d3184.js.map",
+    "static/css/2.34dcc6c8.chunk.css": "/square-image-maker/static/css/2.34dcc6c8.chunk.css",
+    "static/js/2.4f0d200e.chunk.js": "/square-image-maker/static/js/2.4f0d200e.chunk.js",
+    "static/js/2.4f0d200e.chunk.js.map": "/square-image-maker/static/js/2.4f0d200e.chunk.js.map",
+    "index.html": "/square-image-maker/index.html",
+    "precache-manifest.a5629d0856b332df6c19e5c2c657f8f1.js": "/square-image-maker/precache-manifest.a5629d0856b332df6c19e5c2c657f8f1.js",
+    "service-worker.js": "/square-image-maker/service-worker.js",
+    "static/css/2.34dcc6c8.chunk.css.map": "/square-image-maker/static/css/2.34dcc6c8.chunk.css.map",
+    "static/css/main.9067bf5c.chunk.css.map": "/square-image-maker/static/css/main.9067bf5c.chunk.css.map",
+    "static/js/2.4f0d200e.chunk.js.LICENSE.txt": "/square-image-maker/static/js/2.4f0d200e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/square-image-maker/static/media/Bangers-Regular.a82040ec.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a0d3184.js",
+    "static/css/2.34dcc6c8.chunk.css",
+    "static/js/2.4f0d200e.chunk.js",
+    "static/css/main.9067bf5c.chunk.css",
+    "static/js/main.03a970a8.chunk.js"
+  ]
+}
