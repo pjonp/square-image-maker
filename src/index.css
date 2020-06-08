@@ -1,0 +1,94 @@
+@font-face {
+  font-family: bangers;
+  src: url(Bangers-Regular.ttf);
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: bangers, sans-serif;
+  color: #002D72;
+  font-size: 30px;
+}
+img {
+	max-width: 100%;
+}
+header {
+  overflow: hidden;
+}
+header img {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+a {
+  text-decoration: none;
+  color:inherit;
+}
+#SquareImageMaker {
+  text-align: center;
+  width: 750px;
+  margin: auto;
+}
+#infoContainer{
+}
+.actionButton {
+  background-color: rgba(	218, 50, 72,1);
+  font-family: bangers, sans-serif;
+  border: 1px solid #002D72;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 10px;
+  height: 75px;
+  width: 250px;
+  color: white;
+}
+.actionButton:hover{
+  cursor: pointer;
+  background-color: rgba(	108, 172, 228,1) !important;
+}
+#headerContainer, #imageContainer{
+  background-color: white;
+  width: 100%;
+  display: flex;
+}
+.headerLeft, .headerRight{
+  border: 2px solid #eaeaea;
+  width: 59%;
+  margin: 5px auto;
+  padding: 5px 0px;
+  border-radius: 10px;
+  font-family: bangers, sans-serif;
+}
+.headerRight{
+  width: 39%;
+}
+.cropBox{
+  width: 59%;
+  margin: 0px auto;
+}
+#cropPreview, .cropper-modal, .cropper-bg{
+  border-radius: 5px;
+}
+.previewBox{
+  width: 39%;
+  margin: 0px auto;
+  position: relative;
+  overflow: hidden;
+}
+#cropPreview, #resultImage{
+  max-width: 100%;
+  border: 2px solid #002D72;
+  box-sizing: border-box;
+}
+@media only screen and (max-width: 750px) {
+  #SquareImageMaker {
+    width: 100vw;
+  }
+}
+@media only screen and (max-width: 450px) {
+  body{
+    font-size: 24px;
+  }
+}
